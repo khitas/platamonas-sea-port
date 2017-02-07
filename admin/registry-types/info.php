@@ -1,0 +1,3 @@
+<?php
+    $package = "registry-types";
+?>

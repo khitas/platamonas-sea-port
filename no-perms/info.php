@@ -1,0 +1,3 @@
+<?php
+    $package = "no-perms";
+?>

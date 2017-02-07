@@ -1,0 +1,3 @@
+<?php
+    $package = "boat-colors";
+?>
